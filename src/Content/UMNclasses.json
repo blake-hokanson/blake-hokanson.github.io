@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Fall 2023",
+    "data": [
+      {
+        "num": "CSCI 4041",
+        "name": "Algorithms and Data Structures",
+        "grade": "IP",
+        "subtitle": "Rigorous analysis of algorithms/implementation. Algorithm analysis, sorting algorithms, binary trees, heaps, priority queues, heapsort, balanced binary search trees, AVL trees, hash tables and hashing, graphs, graph traversal, single source shortest path, minimum cost spanning trees."
+      },
+      {
+        "num": "CSCI 2041",
+        "name": "Advanced Programming Principles",
+        "grade": "IP",
+        "subtitle": "Principles/techniques for creating correct, robust, modular programs. Computing with symbolic data, recursion/induction, functional programming, impact of evaluation strategies, parallelism. Organizing data/computations around types. Search-based programming, concurrency, modularity."
+      },
+      {
+        "num": "CSCI 2021",
+        "name": "Machine Architecture and Organization",
+        "grade": "IP",
+        "subtitle": "Introduction to hardware/software components of computer system. Data representation, boolean algebra, machine-level programs, instruction set architecture, processor organization, memory hierarchy, virtual memory, compiling, linking. Programming in C."
+      },
+      {
+        "num": "RELS 1201",
+        "name": "The Bible: Context and Interpretation, World of the Hebrew Bible",
+        "grade": "IP",
+        "subtitle": "The Hebrew Bible and Old Testament are literary collections that modern Jewish and Christian traditions maintain as important, but these collections were initially produced by ancient Israelite scribes who composed and/or compiled the biblical texts at particular time periods in the ancient Near East. This course will introduce the academic study of biblical texts, which demands critical analysis of the literature and an openness to reading the literature from the perspective of ancient Israelite writers."
+      }
+    ]
+  },
+  {
+    "name": "Spring 2023",
+    "data": [
+      {
+        "num": "CSCI 2011H",
+        "name": "Honors Discrete Structures of Computer Science",
+        "grade": "A",
+        "subtitle": "Foundations of discrete mathematics. Sets, sequences, functions, big-O, propositional/predicate logic, proof methods, counting methods, recursion/recurrences, relations, trees/graph fundamentals. Advanced topics in discrete structures as time permits."
+      },
+      {
+        "num": "CSCI 1933H",
+        "name": "Honors Introduction to Algorithms and Data Structures",
+        "grade": "A",
+        "subtitle": "Advanced object oriented programming to implement abstract data types (stacks, queues, linked lists, hash tables, binary trees) using Java language. Inheritance. Searching/sorting algorithms. Basic algorithmic analysis. Use of software development tools. Weekly lab. Honors topics: Advanced Java topics, GUI programming, CS research examples."
+      },
+      {
+        "num": "STAT 3021",
+        "name": "Probability and Statistics",
+        "grade": "A",
+        "subtitle": "This is a course in statistics whose primary objectives are to teach students the theory of elementary probability theory and an introduction to the elements of statistical inference, including testing, estimation, and confidence statements."
+      },
+      {
+        "num": "HSEM 2540H",
+        "name": "Understanding the Russian Land",
+        "grade": "A",
+        "subtitle": "Knowledge is power, and we will study how natural knowledge was used to strengthen and expand the state in the medieval, imperial, and Soviet periods. Another major focus of this course is the ravages that nature and humankind have inflicted on one another, and we will study how the environment influenced the development of Russia's form of agricultural slavery, serfdom, as well as the history of environmental degradation, including deforestation, the establishment of heavy industry, and nuclear disaster."
+      },
+      {
+        "num": "CSCL 1001W",
+        "name": "Cultural Studies",
+        "grade": "A",
+        "subtitle": "Culture is a site of struggle, over meanings, values, history, and reality. This course introduces students to cultural studies as a conceptual, interpretive, and interdisciplinary approach to the role that culture plays in defining reality and to the possibilities for contesting those definitions. Through exploring the rituals and practices of culture that shape our perceptions of the world, often in ways we take for granted, the course seeks to develop a critical understanding of the relationships between individual and society, representation and reality, as well as theory and practice"
+      }
+    ]
+  },
+  {
+    "name": "Fall 2022",
+    "data": [
+      {
+        "num": "CSCI 2033",
+        "name": "Elementary Computational Linear Algebra",
+        "grade": "A",
+        "subtitle": "Matrices/linear transformations, basic theory. Linear vector spaces. Inner product spaces. Systems of linear equations, Eigenvalues, singular values. Algorithms/computational matrix methods using NumPy. Use of matrix methods to solve variety of computer science problems."
+      },
+      {
+        "num": "CSCI 1133",
+        "name": "Introduction to Computing and Programming Concepts",
+        "grade": "A",
+        "subtitle": "Fundamental programming concepts using Python language. Problem solving skills, recursion, object-oriented programming. Algorithm development techniques. Use of abstractions/modularity. Data structures/abstract data types. Develop programs to solve real-world problems."
+      },
+      {
+        "num": "PHYS 1301W",
+        "name": "Physics for Science and Engineering I",
+        "grade": "A",
+        "subtitle": "Use of fundamental principles to solve quantitative problems. Motion, forces, conservation principles, structure of matter. Applications to mechanical systems."
+      },
+      {
+        "num": "WRIT 1301W",
+        "name": "University Writing",
+        "grade": "A",
+        "subtitle": "Introduces students to rhetorical principles that provide a framework for successful written communication in college and beyond. Students study and write in a variety of genres and disciplines, and in multimodal forms. The courses focus on writing as a way of knowing and learning to develop ideas through critical thinking, including analysis and synthesis."
+      },
+      {
+        "num": "CSE 1001",
+        "name": "First Year Experience",
+        "grade": "A",
+        "subtitle": "Resources and strategies for college success. Majors and career opportunities offered in the physical sciences, mathematics, and engineering. Personal responsibility, academic integrity, and level of academic rigor required for success. Personal action plan for achievement in CSE."
+      }
+    ]
+  }
+]

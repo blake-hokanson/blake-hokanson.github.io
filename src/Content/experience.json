@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Software Engineer Intern",
+    "date": "May 2023 - PRESENT",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.",
+    "src": "Cigna.png",
+    "href": "experience/cigna"
+  },
+  {
+    "title": "Food & Beverage Area Supervisor",
+    "date": "Aug 2021 - Aug 2022",
+    "description": "Co-supervised the foods department, including 50 employees, 11 food stands, and $90,000 daily revenue",
+    "src": "Valleyfair.png",
+    "href": "experience/valleyfair"
+  }
+]

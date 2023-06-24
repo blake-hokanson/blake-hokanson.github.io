@@ -1,0 +1,16 @@
+[
+  {
+    "title": "University of Minnesota",
+    "date": "Sep 2023 - PRESENT",
+    "description": "Studying computer science",
+    "src": "UMN.png",
+    "href": "/education/UMN"
+  },
+  {
+    "title": "Shakopee High School",
+    "date": "Aug 2018 - Jun 2022",
+    "description": "Academy of Engineering and manufacturing",
+    "src": "Shakopee.png",
+    "href": "/education/SHS"
+  }
+]

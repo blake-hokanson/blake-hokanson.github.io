@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Senior Year",
+    "data": [
+      {
+        "num": "CSCI 1001",
+        "name": "Computer Science Principles",
+        "grade": "A",
+        "subtitle": "Students learn to design and evaluate solutions and to apply computer science to solve problems through the development of algorithms and programs. They incorporate abstraction into programs and use data to discover new knowledge. "
+      },
+      {
+        "num": "MATH 1272",
+        "name": "Calculus II",
+        "grade": "A",
+        "subtitle": "Techniques of integration. Calculus involving transcendental functions, polar coordinates. Taylor polynomials, vectors/curves in space, cylindrical/spherical coordinates."
+      },
+      {
+        "num": "COMM 1101",
+        "name": "Public Speaking",
+        "grade": "A-",
+        "subtitle": "Public communication processes, elements, and ethics. Criticism of and response to public discourse. Practice in individual speaking designed to encourage civic participation."
+      },
+      {
+        "num": "APEC 1101",
+        "name": "Principles of Microeconomics",
+        "grade": "A",
+        "subtitle": "Economic behavior of consumers/firms in domestic/international markets. Demand, supply, competition. Efficiency, Invisible Hand. Monopoly, imperfect competition. Externalities, property rights. Economics of public policy in environment/health/safety. Public goods, tax policy."
+      }
+    ]
+  },
+  {
+    "name": "Junior Year",
+    "data": [
+      {
+        "num": "STAT 1001",
+        "name": "Introduction to the Ideas of Statistics",
+        "grade": "A",
+        "subtitle": "Graphical/numerical presentations of data. Judging the usefulness/reliability of results/inferences from surveys and other studies to interesting populations. Coping with randomness/variation in an uncertain world."
+      },
+      {
+        "num": "BIOL 1009",
+        "name": "General Biology",
+        "grade": "A",
+        "subtitle": "A comprehensive introduction to biology - includes molecular structure of living things, cell processes, energy utilization, genetic information and inheritance, mechanisms of evolution, biological diversity, and ecology. Includes lab."
+      },
+      {
+        "num": "CSE 1513",
+        "name": "PLTW: Engineering Design and Development",
+        "grade": "A",
+        "subtitle": "Students identify a real-world challenge and then research, design, and test a solution, ultimately presenting their unique solutions to a panel of engineers."
+      }
+    ]
+  },
+  {
+    "name": "Sophomore Year",
+    "data": [
+      {
+        "num": "MATH 1371",
+        "name": "CSE Calc I",
+        "grade": "A",
+        "subtitle": "Differentiation of single-variable functions, basics of integration of single-variable functions. Applications: max-min, related rates, area, curve-sketching. Use of calculator, cooperative learning."
+      },
+      {
+        "num": "CHEM 1065",
+        "name": "Chemical Principles I Laboratory",
+        "grade": "A",
+        "subtitle": "Basic laboratory skills while investigating physical and chemical phenomena closely linked to lecture material. Experimental design, data collection and treatment, discussion of errors, and proper treatment of hazardous wastes."
+      },
+      {
+        "num": "CSE 1512",
+        "name": "PLTW: Principles Engineering",
+        "grade": "A",
+        "subtitle": "Students explore how modern engineers help improve the world through diverse engineering fields, such as product design, mechanical design, infrastructure, and sustainability. Students learn and use some of the cutting edge tools engineers use in robotics, 3D modeling, programming, and prototyping. "
+      }
+    ]
+  },
+  {
+    "name": "Freshman Year",
+    "data": [
+      {
+        "num": "PHYS 1101W",
+        "name": "Introductory College Physics",
+        "grade": "A",
+        "subtitle": "Fundamental principles of physics in the context of everyday world. Use of kinematics/dynamics principles and quantitative/qualitative problem solving techniques to understand natural phenomena. Lecture, recitation, lab."
+      },
+      {
+        "num": "CSE 1511",
+        "name": "PLTW: Engineering Design",
+        "grade": "A",
+        "subtitle": "In this educational program, students engage in a comprehensive and immersive learning experience that focuses on the principles and practices of the engineering design process. Through this program, students acquire a deeper understanding of how to apply mathematical, scientific, and engineering concepts to solve real-world problems and develop innovative solutions."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Gopher Grades",
+    "date": "Jan 2023 - PRESENT",
+    "description": "Created a program to automatically export students' academic classes to an ics calendar file",
+    "src": "Gophergrades.jpg",
+    "href": "/projects/gophergrades"
+  },
+  {
+    "title": "Emoji Social",
+    "date": "Sep 2022 - Dec 2022",
+    "description": "Programmed a social media website where users could post only using emoji characters",
+    "src": "Emoji.png",
+    "href": "/projects/emoji"
+  },
+  {
+    "title": "Project Signol",
+    "date": "Jan 2022 - Dec 2022",
+    "description": "Programmed framework to test stock day-trading strategies across 500+ stocks and ETFs",
+    "src": "Stock.png",
+    "href": "/projects/signol"
+  },
+  {
+    "title": "Schedule Generator",
+    "date": "April 2022 - Oct 2022",
+    "description": "Created an application for Valleyfair to reformat an Excel spreadsheet into a vital scheduling document",
+    "src": "Schedule.png",
+    "href": "/projects/schedule"
+  }
+]
