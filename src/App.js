@@ -31,6 +31,7 @@ const router = createBrowserRouter(
 
       <Route path="/education/UMN" element={<UMN />} />
       <Route path="/education/SHS" element={<SHS />} />
+      <Route element={<Main />} />
     </Route>
   )
 );
