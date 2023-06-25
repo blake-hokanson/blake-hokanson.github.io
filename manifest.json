@@ -1,0 +1,40 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "hedgehog16.png",
+      "type": "image/png",
+      "sizes": "17x16"
+    },
+    {
+      "src": "hedgehog32.png",
+      "type": "image/png",
+      "sizes": "33x32"
+    },
+    {
+      "src": "hedgehog64.png",
+      "type": "image/png",
+      "sizes": "65x64"
+    },
+    {
+      "src": "hedgehog128.png",
+      "type": "image/png",
+      "sizes": "129x128"
+    },
+    {
+      "src": "hedgehog256.png",
+      "type": "image/png",
+      "sizes": "257x256"
+    },
+    {
+      "src": "hedgehog512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

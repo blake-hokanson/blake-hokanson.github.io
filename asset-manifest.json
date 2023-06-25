@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/website/static/js/main.48e837ea.js",
+    "static/media/Valleyfair.png": "/website/static/media/Valleyfair.e4366abc4f38ebcfd8ad.png",
+    "static/media/Stock.png": "/website/static/media/Stock.2b96a7b40d5ab9d48e45.png",
+    "static/media/Profile.jpg": "/website/static/media/Profile.aaa0a68d69b75da781f6.jpg",
+    "static/media/Gophergrades.jpg": "/website/static/media/Gophergrades.f6a846ddef1bcc1b709d.jpg",
+    "static/media/Emoji.png": "/website/static/media/Emoji.7129351e86b830daa8c2.png",
+    "static/media/Shakopee.png": "/website/static/media/Shakopee.0d18a0fe221399b2a3f0.png",
+    "static/media/Cigna.png": "/website/static/media/Cigna.26c0aac44b0b49abfee4.png",
+    "static/media/Schedule.png": "/website/static/media/Schedule.ce8ab4d0ac581206f0f3.png",
+    "static/media/UMN.png": "/website/static/media/UMN.22e8f25c6eb17f383fbb.png",
+    "static/media/vf.JPEG": "/website/static/media/vf.5f19e8d5620cf791fac5.JPEG",
+    "static/media/SHS.jpeg": "/website/static/media/SHS.a6dda74a425a154706e0.jpeg",
+    "static/media/Resume.pdf": "/website/static/media/Resume.e4925eff024024d40cb6.pdf",
+    "static/media/UMN2.jpg": "/website/static/media/UMN2.f7be5c6f43d3f0420cdf.jpg",
+    "index.html": "/website/index.html",
+    "main.48e837ea.js.map": "/website/static/js/main.48e837ea.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.48e837ea.js"
+  ]
+}
