@@ -5,18 +5,9 @@ import { FaLinkedin, FaFileAlt } from "react-icons/fa";
 
 import React from "react";
 
-import Resume from "../Media/Resume.pdf";
-
 export default function Footer() {
   return (
-    <Container
-      maxW="4xl"
-      h="100px"
-      bg="gray.500"
-      display="flex"
-      justifyContent="center"
-      alignItems="center"
-    >
+    <Container maxW="4xl" h="100px" bg="gray.500" display="flex" justifyContent="center" alignItems="center">
       <VStack>
         <HStack>
           {ButtonObject({
@@ -31,7 +22,7 @@ export default function Footer() {
           })}
           {ButtonObject({
             fig: <FaFileAlt />,
-            link: Resume,
+            link: "/Resume.pdf",
             text: "Resume",
           })}
         </HStack>

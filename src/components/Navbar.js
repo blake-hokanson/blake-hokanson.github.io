@@ -24,7 +24,6 @@ import { FaLinkedin, FaFileAlt } from "react-icons/fa";
 import { HamburgerIcon } from "@chakra-ui/icons";
 
 import Profile from "../Media/Profile.jpg";
-import Resume from "../Media/Resume.pdf";
 
 const buttons = [
   {
@@ -39,7 +38,7 @@ const buttons = [
   },
   {
     fig: <FaFileAlt />,
-    href: Resume,
+    href: "/Resume.pdf",
     text: "Resume",
   },
 ];
