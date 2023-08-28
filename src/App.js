@@ -15,6 +15,14 @@ import Cigna from "./pages/experience/cigna";
 import UMN from "./pages/education/UMN";
 import SHS from "./pages/education/SHS";
 
+import ReactGA from 'react-ga4';
+const TRACKING_ID = "G-638SW67Q6Y"; // OUR_TRACKING_ID
+ReactGA.initialize(TRACKING_ID);
+ReactGA.send({
+  hitType: "pageview",
+  page: window.location.pathname,
+});
+
 function App() {
   return (
     <Routes>

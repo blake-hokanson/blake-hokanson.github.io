@@ -6,10 +6,10 @@ export default function Test() {
   return (
     <Container maxW="4xl" bg="gray.300" minH="calc(100vh - 200px)">
       <VStack>
-        <Heading>The Cigna Group</Heading>
+        <Heading marginTop="30px">The Cigna Group</Heading>
         <Heading size="md">Minneapolis, MN</Heading>
         <Image src={Cigna} borderRadius="lg" width="md" height="270px" objectFit="cover" />
-        <Box my="30px" />
+        <Box py="30px" />
       </VStack>
 
       <Heading>Experience</Heading>
@@ -20,9 +20,12 @@ export default function Test() {
       <Heading size="xs">May 2023 - Aug 2023</Heading>
       <UnorderedList>
         <ListItem>
-          Participated as a memeber of the Thrid Party Data Exchange agile developelent team. I developed a web
-          application dashbpard for tracking all data leaving Cigna.
+          Software developer with an agile development team, actively participating in scrum ceremonies
         </ListItem>
+        <ListItem>
+          Contributed to the development of frontend features using AngularJS, HTML, CSS, and Typescript
+        </ListItem>
+        <ListItem>Worked alongside senior employees to streamline code and improve readability</ListItem>
       </UnorderedList>
 
       <Heading size="md" my="10px">

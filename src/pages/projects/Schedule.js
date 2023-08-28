@@ -6,7 +6,7 @@ export default function Test() {
   return (
     <Container maxW="4xl" bg="gray.300" minH="calc(100vh - 200px)">
       <VStack>
-        <Heading>Schedule Generator</Heading>
+        <Heading marginTop="30px">Schedule Generator</Heading>
         <Heading size="md">Web App</Heading>
         <Image src={Schedule} borderRadius="lg" width="md" height="270px" objectFit="cover" />
 
@@ -27,7 +27,7 @@ export default function Test() {
         <ListItem>Jupyter Notebook</ListItem>
       </UnorderedList>
 
-      <Box my="30px" />
+      <Box py="30px" />
     </Container>
   );
 }

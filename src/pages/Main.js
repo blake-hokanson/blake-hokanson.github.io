@@ -7,8 +7,8 @@ import experience from "../Content/experience.json";
 import education from "../Content/education.json";
 
 const data = [
-  { title: "Projects", data: projects },
   { title: "Experience", data: experience },
+  { title: "Projects", data: projects },
   { title: "Education", data: education },
 ];
 
@@ -33,12 +33,12 @@ function AboutMe() {
       <Heading py="30px">About Me:</Heading>
       <Text>
         Passionate and highly driven computer science major at the University of Minnesota Twin Cities. Eager to learn
-        more about computer science and its applications in software engineering. Looking for summer internships.
+        more about computer science and its applications in software engineering.
       </Text>
       <Text my="15px">
-        I have been programming in multiple languages for over five years and taking computer science classes for the
-        past two years. In that time I have completed multiple projects, including a framework to test stock day-trading
-        strategies and created a schedule generator for my workplace.
+        Seeking a challenging computer science summer internship to expand my knowledge of computer science concepts
+        further, obtain practical experience in the field, and contribute effectively to software development projects
+        and teams.
       </Text>
     </Container>
   );

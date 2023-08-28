@@ -12,7 +12,7 @@ export default function SHS() {
   return (
     <Container maxW="4xl" bg="gray.300" minH="calc(100vh - 200px)">
       <VStack>
-        <Heading>Shakopee High School</Heading>
+        <Heading marginTop="30px">Shakopee High School</Heading>
         <Heading size="md">Engineering and Manufacturing Academy</Heading>
         <Image src={SHSPhoto} borderRadius="md" />
 

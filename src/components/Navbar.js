@@ -1,5 +1,6 @@
 import {
   Container,
+  Box,
   Avatar,
   Button,
   HStack,
@@ -45,9 +46,11 @@ const buttons = [
 
 export default function Navbar() {
   return (
-    <Container maxW="4xl" h="100px" bg="gray.500">
+    <Container maxW="4xl" h="130px" bg="gray.500">
       <HStack align="center">
-        <Avatar size="xl" name="Blake Hokanson" src={Profile} border="2px solid Black" />
+        <Box my="15px">
+          <Avatar size="xl" name="Blake Hokanson" src={Profile} border="2px solid Black" />
+        </Box>
         <Diff />
       </HStack>
     </Container>

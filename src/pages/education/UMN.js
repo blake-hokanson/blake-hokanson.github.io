@@ -13,7 +13,7 @@ export default function UMN() {
   return (
     <Container maxW="4xl" bg="gray.300" minH="calc(100vh - 200px)">
       <VStack>
-        <Heading>University of Minnesota Twin Cities</Heading>
+        <Heading marginTop="30px">University of Minnesota Twin Cities</Heading>
         <Heading size="md">Majoring in Computer Science with a Minor in Statistics</Heading>
         <Image src={UMNPhoto} borderRadius="md" />
 

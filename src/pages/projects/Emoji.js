@@ -6,7 +6,7 @@ export default function Test() {
   return (
     <Container maxW="4xl" bg="gray.300" minH="calc(100vh - 200px)">
       <VStack>
-        <Heading>Emoji Social</Heading>
+        <Heading marginTop="30px">Emoji Social</Heading>
         <Heading size="md">Website</Heading>
         <Image src={Emoji} borderRadius="lg" width="md" height="270px" objectFit="cover" />
 
@@ -26,7 +26,7 @@ export default function Test() {
         <ListItem>SQL</ListItem>
       </UnorderedList>
 
-      <Box my="30px" />
+      <Box py="30px" />
     </Container>
   );
 }

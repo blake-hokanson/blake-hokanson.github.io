@@ -6,7 +6,7 @@ export default function Test() {
   return (
     <Container maxW="4xl" bg="gray.300" minH="calc(100vh - 200px)">
       <VStack>
-        <Heading>Project Signol</Heading>
+        <Heading marginTop="30px">Project Signol</Heading>
         <Heading size="md">Framework and Discord Bot</Heading>
         <Image src={Stock} borderRadius="lg" width="md" height="270px" objectFit="cover" />
 
@@ -23,10 +23,10 @@ export default function Test() {
       <UnorderedList>
         <ListItem>Python</ListItem>
         <ListItem>Pandas</ListItem>
-        <ListItem>SQL</ListItem>
+        <ListItem>SQLite</ListItem>
       </UnorderedList>
 
-      <Box my="30px" />
+      <Box py="30px" />
     </Container>
   );
 }
