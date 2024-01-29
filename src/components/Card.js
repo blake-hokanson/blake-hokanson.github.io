@@ -23,7 +23,3 @@ export default function CardObject({ src, title, description, date, href }) {
     </Card>
   );
 }
-
-/*
-
-    */

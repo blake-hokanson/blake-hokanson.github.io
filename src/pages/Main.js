@@ -32,12 +32,10 @@ function AboutMe() {
     <Container maxW="4xl">
       <Heading py="30px">About Me:</Heading>
       <Text>
-        Passionate and highly driven computer science major at the University of Minnesota Twin Cities. Eager to learn
-        more about computer science and its applications in software engineering.
+        Passionate and highly driven computer science major at the University of Minnesota Twin Cities. Eager to learn more about computer science and its applications in software engineering.
       </Text>
       <Text my="15px">
-        Seeking a challenging computer science summer internship to expand my knowledge of computer science concepts
-        further, obtain practical experience in the field, and contribute effectively to software development projects
+        Seeking a challenging computer science summer internship to expand my knowledge of computer science concepts further, obtain practical experience in the field, and contribute effectively to software development projects
         and teams.
       </Text>
     </Container>

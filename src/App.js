@@ -4,6 +4,8 @@ import { Route, Routes } from "react-router-dom";
 import RootLayout from "./layouts/RootLayout";
 import Main from "./pages/Main";
 
+import Background from "./components/Background";
+
 import Gophergrades from "./pages/projects/Gophergrades";
 import Emoji from "./pages/projects/Emoji";
 import Signol from "./pages/projects/Signol";
@@ -16,6 +18,7 @@ import UMN from "./pages/education/UMN";
 import SHS from "./pages/education/SHS";
 
 import ReactGA from 'react-ga4';
+
 const TRACKING_ID = "G-638SW67Q6Y"; // OUR_TRACKING_ID
 ReactGA.initialize(TRACKING_ID);
 ReactGA.send({
@@ -39,6 +42,7 @@ function App() {
 
         <Route path="/education/UMN" element={<UMN />} />
         <Route path="/education/SHS" element={<SHS />} />
+        <Route path="/background" element={<Background />} />
       </Route>
     </Routes>
   );
