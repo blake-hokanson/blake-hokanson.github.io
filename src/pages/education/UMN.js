@@ -6,8 +6,8 @@ import UMNPhoto from "../../Media/UMN2.jpg";
 
 import classes from "../../Content/UMNclasses.json";
 
-const progress = (15 / 122) * 100;
-const complete = (68 / 122) * 100;
+const progress = (17 / 122) * 100;
+const complete = (89 / 122) * 100;
 
 export default function UMN() {
   return (

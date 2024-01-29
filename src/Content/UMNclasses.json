@@ -1,29 +1,65 @@
 [
   {
+    "name": "Spring 2024",
+    "data": [
+      {
+        "num": "CSCI 3081W",
+        "name": "Program Design and Development",
+        "grade": "IP",
+        "subtitle": "Principles of programming design/analysis. Concepts in software development. Uses a programming project to illustrate key ideas in program design/development, data structures, debugging, files, I/O, testing, and coding standards."
+      },
+      {
+        "num": "CSCI 4061",
+        "name": "Introduction to Operating Systems",
+        "grade": "IP",
+        "subtitle": "Processes/threads, process coordination, interprocess communication, asynchronous events, memory management/file systems. Systems programming projects using operating system interfaces and program development tools."
+      },
+      {
+        "num": "CSCI 4131",
+        "name": "Internet Programming",
+        "grade": "IP",
+        "subtitle": "Issues in internet programming. Internet history, architecture/protocols, network programming, Web architecture. Client-server architectures and protocols. Client-side programming, server-side programming, dynamic HTML, Java programming, object-oriented architecture/design, distributed object computing, Web applications."
+      },
+      {
+        "num": "CSCI 4211",
+        "name": "Introduction to Computer Networks",
+        "grade": "IP",
+        "subtitle": "Concepts, principles, protocols, and applications of computer networks. Layered network architectures, data link protocols, local area networks, routing, transport, network programming interfaces, networked applications. Examples from Ethernet, Token Ring, TCP/IP, HTTP, WWW."
+      },
+      {
+        "num": "CSCI 5801",
+        "name": "Software Engineering I",
+        "grade": "IP",
+        "subtitle": "Advanced introduction to software engineering. Software life cycle, development models, software requirements analysis, software design, coding, maintenance."
+      }
+    ]
+  },
+
+  {
     "name": "Fall 2023",
     "data": [
       {
         "num": "CSCI 4041",
         "name": "Algorithms and Data Structures",
-        "grade": "IP",
+        "grade": "A",
         "subtitle": "Rigorous analysis of algorithms/implementation. Algorithm analysis, sorting algorithms, binary trees, heaps, priority queues, heapsort, balanced binary search trees, AVL trees, hash tables and hashing, graphs, graph traversal, single source shortest path, minimum cost spanning trees."
       },
       {
         "num": "CSCI 2041",
         "name": "Advanced Programming Principles",
-        "grade": "IP",
+        "grade": "A",
         "subtitle": "Principles/techniques for creating correct, robust, modular programs. Computing with symbolic data, recursion/induction, functional programming, impact of evaluation strategies, parallelism. Organizing data/computations around types. Search-based programming, concurrency, modularity."
       },
       {
         "num": "CSCI 2021",
         "name": "Machine Architecture and Organization",
-        "grade": "IP",
+        "grade": "A",
         "subtitle": "Introduction to hardware/software components of computer system. Data representation, boolean algebra, machine-level programs, instruction set architecture, processor organization, memory hierarchy, virtual memory, compiling, linking. Programming in C."
       },
       {
         "num": "RELS 1201",
         "name": "The Bible: Context and Interpretation, World of the Hebrew Bible",
-        "grade": "IP",
+        "grade": "A",
         "subtitle": "The Hebrew Bible and Old Testament are literary collections that modern Jewish and Christian traditions maintain as important, but these collections were initially produced by ancient Israelite scribes who composed and/or compiled the biblical texts at particular time periods in the ancient Near East. This course will introduce the academic study of biblical texts, which demands critical analysis of the literature and an openness to reading the literature from the perspective of ancient Israelite writers."
       }
     ]
